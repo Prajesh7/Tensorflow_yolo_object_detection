@@ -3,8 +3,8 @@ Object detection using YOLO format and Tensorflow
 
 
 # Dataset: VOC2012
-![data](C:/Users/Natwar/Desktop/Tensorflow_yolo_object_detection/data.png)
+![data](https://github.com/Prajesh7/Tensorflow_yolo_object_detection/blob/main/data.png)
 
 # Current Results:
 
-![results](C:/Users/Natwar/Desktop/Tensorflow_yolo_object_detection/results.png)
+![results](https://github.com/Prajesh7/Tensorflow_yolo_object_detection/blob/main/results.png)
